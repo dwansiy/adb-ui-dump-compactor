@@ -1,0 +1,7 @@
+interface:
+  display_name: "ADB UI Dump Compactor"
+  short_description: "Compact Android UI dumps for AI tests."
+  default_prompt: "Use $adb-ui-dump-compactor to compact this Android UI dump for AI-driven test automation."
+
+policy:
+  allow_implicit_invocation: true
